@@ -1,3 +1,6 @@
+# This configuration is using the latest version of the AWS module which seems to be incompatible. Will update as soon the problem is fixed.
+First commit should still work but is not up to date
+
 # Caddy Route53 DNS Challenge
 Caddy Docker Image With custom build for route53 using Docker-Compose
 
